@@ -1,0 +1,109 @@
+1. As a user i need a login page which should be easily accessebile.
+
+Acceptance criteria:
+
+the username should not begin with specialcharacters must contain alphabetic values minimum of seven.
+the password should contain alphaNumeric characters with a minimum of five characters and atleast one specialcharacters and length of two numeric values.
+the mailid contains minimum length of eight alphaNumeric characters and one specialcharacters with an one @ mail adress.
+the dob cannot  alphabetic values and should one date.
+
+2.As a user i need a login page which should be easily accessebile.
+
+Acceptance criteria:
+
+the username should not begin with specialcharacters must contain alphabetic values minimum of seven.
+the password should contain alphaNumeric characters with a minimum of five characters and atleast one special-characters and length of two numeric values.
+the mailid contains minimum length of eight alphaNumeric characters and one special-characters with an one @ mail adress.
+the dob cannot  alphabetic values and should one date.
+
+3.As a frequent traveler who regularly uses multiple currencies, I want the banking system to offer competitive exchange rates, provide easy-to-use currency conversion tools, allow me to manage multiple accounts in different currencies, and offer international payment options so that I can manage my finances effectively while abroad.
+
+Acceptance criteria:
+
+The banking system should offer exchange rates should be numeric with minimum of seven numbers ,that are competitive and updated in real-time to reflect current market rates upto one date.
+The banking system should provide easy-to-use currency conversion tools that allow me to quickly convert between different currencies without having to navigate through multiple screens.
+The banking system should allow me to manage multiple accounts in different currencies uppercase of minimum length of seven characters, including the ability to view account balances with numeric character of five numbers, transaction history, and make transfers between accounts based on time one.
+The banking system should offer international payment options should be with password protection of alphanumeric charcater of length of twelve, including the ability to make wire transfers and pay bills in foreign currencies with numeric charcter length of five, with competitive fees and processing times.
+
+4.As a shopper, I want to search for products on the website.
+
+Acceptance Criteria:
+
+The search query should contain at least seven alphanumeric characters.
+The search results should include both on length of four alphabetic variations of the query.
+The search results should not contain any special characters should be length of eight alphanumeric.
+The search results must display a maximum length of twenty alphanumeric charcters.
+
+
+5.As a patient, I want to book an appointment with a doctor.
+
+Acceptance Criteria:
+
+The appointment one date must be in the format "MM/DD/YYYY".
+The appointment time should be one in the format "hh:mm:ss".
+The selected timezone must be one and valid.
+A maximum of appointments can be scheduled in a one day_pattern.
+
+6.As a user, I want to upload files to my profile.
+
+Acceptance Criteria:
+
+The uploaded file format should be less than two numeric values size.
+To open the updated file user should enter eight digit specialcharacters along with one numeric and two uppercase.
+The file name should not contain any one specialcharacters can contain six alphanumeric.
+The uploaded file must contains one time.
+
+7.As a user, I want to reset my password.
+
+Acceptance Criteria:
+
+The new password must be alphanumeric and contain at least one special character.
+The new password must have a minimum length of 8 characters.
+The old password should match the current password.
+Password reset is a conditional action.
+
+8.As a user, I want to set my preferred language.
+
+Acceptance Criteria:
+
+The selected language should be in ten uppercase.
+The language options must be displayed as a list.
+The language preference can be updated at any time.
+Multiple languages can be selected.
+
+9.As a customer, I want to write a review for a product.
+
+Acceptance Criteria:
+
+The review must contain at least 50 characters.
+Special characters are allowed in the review content.
+The review date should be in the format "MM/DD/YYYY hh:mm AM/PM".
+Reviews can be written by anyone.
+
+10..As a user, I want to deactivate my account.
+
+Acceptance Criteria:
+
+Account deactivation is a conditional action.
+Deactivated accounts should not be able to log in.
+Deactivation confirmation should be sent via email.
+Reactivation of the account is possible.
+
+11.As an event attendee, I want to register for an upcoming event.
+
+Acceptance Criteria:
+
+The event date must be in the format "MM/DD/YYYY".
+The event name should be in uppercase.
+Event registration is optional, not mandatory.
+Multiple attendees can be registered for the same event.
+
+12.As a user, I want to submit a survey.
+
+Acceptance Criteria:
+
+Survey questions should include both uppercase and lowercase variations.
+Special characters are allowed in the survey responses.
+Survey submission must have a minimum of 5 questions.
+Survey submissions can be edited until the submission deadline.
+

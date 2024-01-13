@@ -1,0 +1,9 @@
+Test Cases:
+TestCase_1 (Valid): HeHglxr
+TestCase_1 (Invalid): zSZCQa
+TestCase_2 (Valid): C0dQ7|73
+TestCase_2 (Invalid): SNfV3
+TestCase_3 (Valid): wdBaWO3S}@rdHNN.com
+TestCase_3 (Invalid): Wdf4UcN@lGGQI.com
+TestCase_4 (Valid): 04/18/1972
+TestCase_4 (Invalid): 16/34/2018
